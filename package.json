@@ -25,7 +25,7 @@
   "dependencies": {
     "atob": "^2.1.2",
     "btoa": "^1.2.1",
-    "fflate": "^0.4.8"
+    "fflate": "^0.5.0"
   },
   "optionalDependencies": {
     "canvg": "^3.0.6",
